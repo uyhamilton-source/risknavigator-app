@@ -1,0 +1,11 @@
+control_id,control_area,control_name,in_scope,status,evidence_available,owner_assigned,policy_exists,procedure_exists,tested_recently,row_score,priority_hint
+CC1.1,Control Environment,Security roles and responsibilities documented,Yes,Partial,Yes,Yes,Yes,No,No,,
+CC2.1,Communication,Security policies communicated to personnel,Yes,Partial,No,Yes,Yes,No,No,,
+CC3.1,Risk Management,Risk assessment process established,Yes,No,No,No,No,No,No,,
+CC5.2,Control Activities,Access reviews performed regularly,Yes,Partial,Yes,Yes,Yes,Yes,No,,
+CC6.3,Logical Access,MFA enabled for privileged and remote access,Yes,No,No,Yes,Yes,Yes,No,,
+CC7.1,System Operations,Vulnerability and patch management process exists,Yes,Partial,Yes,Yes,Yes,Yes,No,,
+CC7.2,Change Management,Logging and monitoring enabled,Yes,Partial,Yes,Yes,Yes,Yes,Yes,,
+CC7.3,Incident Response,Incident response plan documented and tested,Yes,No,No,Yes,Yes,No,No,,
+A1.2,Availability,Backup and recovery testing performed,No,Partial,Yes,Yes,Yes,Yes,No,,
+C1.1,Confidentiality,Data classification and encryption controls defined,No,Partial,Yes,Yes,Yes,No,No,,
